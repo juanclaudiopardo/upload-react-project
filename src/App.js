@@ -15,7 +15,7 @@ function App() {
           />
         </div>
         <div className='p-4'>
-          <h2 className='text-xl font-bold text-gray-800 mb-5'>
+          <h2 className='text-xl font-bold text-gray-800 mb-5 text-center'>
             Improve your front-end skills by building projects
           </h2>
           <p className='mt-2 text-gray-400 font-[15px] text-center'>
